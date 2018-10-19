@@ -21,7 +21,4 @@ Sept, Huit, Neuf, Dans nos paniers neufs
 ou les haricots ? \
 Puis-je aussi en mettre dans mon panier ?
 
-
-
-
-
+Seuls les haricots magiques peuvent te procurer le même plaisir que les fraises...
