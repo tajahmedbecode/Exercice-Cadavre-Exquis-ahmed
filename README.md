@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercice-Cadavre-Exquis-ahmed
 1- projet un
 2- projet deux
@@ -22,3 +23,8 @@ ou les haricots ? \
 Puis-je aussi en mettre dans mon panier ?
 
 Seuls les haricots magiques peuvent te procurer le même plaisir que les fraises...
+=======
+
+**Tant qu'on ne met pas tous les *oeufs* dans le même panier !**
+----------------------------------------------------------------
+>>>>>>> ajout-bene
