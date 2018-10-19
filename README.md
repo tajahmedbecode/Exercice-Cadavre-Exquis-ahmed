@@ -11,3 +11,8 @@
 3. Projet trois
 4. Projet quatre
 )
+
+
+Un, Deux, Trois, Nous irons au bois  
+Quatre, Cinq, Six, Cueillir des cerises  
+Sept, Huit, Neuf, Dans nos paniers neufs  
