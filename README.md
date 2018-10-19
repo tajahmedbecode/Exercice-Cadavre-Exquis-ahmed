@@ -16,3 +16,12 @@
 Un, Deux, Trois, Nous irons au bois  
 Quatre, Cinq, Six, Cueillir des cerises  
 Sept, Huit, Neuf, Dans nos paniers neufs  
+
+>oui mais si je préfère les fraises ? \
+ou les haricots ? \
+Puis-je aussi en mettre dans mon panier ?
+
+
+
+
+
